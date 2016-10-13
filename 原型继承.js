@@ -1,3 +1,5 @@
+// WebStom 可以正常运行
+
 function Person(name) {
     this.name = name;
 };
